@@ -1,0 +1,21 @@
+.output2 {
+	border: 2px solid green;
+}
+
+.output2 {
+	border: 2px solid red;
+}
+
+.wrapper {	
+	display:block;
+	width:400px;
+	height:200px; 
+	border:20px solid #e1e1e1;
+	position:absolute;
+	left:0;
+	right:0;
+	bottom:0;
+	top:0;
+	margin:auto;
+	border-radius: 25px;
+}
